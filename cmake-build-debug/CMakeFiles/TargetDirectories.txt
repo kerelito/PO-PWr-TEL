@@ -1,0 +1,3 @@
+/Users/karol/Git/PO-PWr-TEL/cmake-build-debug/CMakeFiles/PO_PWr_TEL.dir
+/Users/karol/Git/PO-PWr-TEL/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/karol/Git/PO-PWr-TEL/cmake-build-debug/CMakeFiles/rebuild_cache.dir
